@@ -1,2 +1,1 @@
-# test_badges
-repository test badges 
+a test repo for contribution
