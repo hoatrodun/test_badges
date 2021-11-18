@@ -17,12 +17,12 @@ setup(
     extras_require={},      # optional features that other packages can require
                             #   like 'helloworld[foo]'
     package_data = {"helloworld": ["VERSION.txt"]},
-    author="David Barnett",
-    author_email = "davidbarnett2@gmail.com",
+    author="HoangDung",
+    author_email = "hungtrongdoang@gmail.com",
     description = "The familiar example program in Python",
     license = "Apache 2.0",
     keywords= "example documentation tutorial",
-    url = "http://github.com/dbarnett/python-helloworld",
+    url = "https://github.com/hungtrongdoang/test_badges/edit/main/setup.py",
     entry_points = {
         "console_scripts": [        # command-line executables to expose
             "helloworld_in_python = helloworld.main:main",
